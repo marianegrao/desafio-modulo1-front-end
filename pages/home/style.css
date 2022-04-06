@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+.header-homepage{
+    display: flex;
+    align-items: flex-end;
+    justify-content: left;
+    background-image: url("../../assets/home/image-homepage-hero.jpg");
+    background-size: 1110px 600px;
+    width: 1110px;
+    height: 600px;
+    margin-top: 50px;
+}
+
+.header-card{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    width: 445px;
+    height: 357px;
+    background-color: white;
+}
+
+.header-card__h1{
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    letter-spacing: -0.446429px;
+    padding: 50px 28px;
+    color: #33323D;
+}
+
+
+
+.header-card__button{
+    display: flex;
+}
+
+.herder-card__button__a{
+    text-align: center;
+    color: #FFFFFF;
+    background-image: url(../../assets/home/btn-aboutMe-dark.svg);
+    width: 200px;
+    height: 48px;
+    padding-top: 17px;
+    padding-left: 40px;
+}
+
+.herder-card__button__a:hover{
+    background-image: url(../../assets/home/btn-aboutMe-light.svg);
+}
+
+
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1110px;
+    max-height: 601px;
+    margin: 150px 0px 80px 0px;
+}
+
+.main-imagem-profile{
+    width: 540px;
+    height: 600px;
+}
+
+.main__infor{
+    display: flex;
+    flex-direction: column;
+
+    width: 430px;
+    height: 601px;
+    margin-left: 140px;
+
+}
+.divisoria--normal{
+    width: 430px;
+}
+
+.main__h1{
+    margin-top: 50px;
+    margin-bottom: 27px;
+}
+
+.main__button{
+    display: flex;
+    justify-content: center;
+
+    margin-top: 35px;
+    margin-bottom: 40px;
+}
+
+.main__button__a{
+    padding: 17px 28px;
+}
+
+
+
+.contact{
+    width: 1110px;
+    height: 214px;
+}
+
+.contact-home__button{
+    margin-left: 500px;
+}

@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.section-manage{
+    margin-top: 85px;
+}
+
+.section-manage, .section-bookmark, .section-insure, .section-fylo{
+    display: flex;
+    align-items: center;
+    width: 1015px;
+    height: 500px;
+    margin-bottom: 80px;
+}
+
+.manage__img, .bookmark__img, .insure__img, .fylo__img{
+    width: 540px;
+    height: 500px;
+}
+
+.manage__infor, .insure__infor{
+    width: 400px;
+    height: 500px;
+    margin-left: 120px;
+}
+.bookmark__infor,.fylo__infor{
+    margin-right: 125px;
+}
+
+.divisoria--small{
+    width: 350px;
+}
+
+.manage__h1, .bookmark__h1, .insure__h1, .fylo__h1{
+    margin-top: 110px;
+}
+.manage__p, .bookmark__p, .insure__p, .fylo__p{
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+
+.insure__p{
+    margin-top: 22px;
+    margin-bottom: 50px;
+}
+
+.fylo__p{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.manage__button, .bookmark__button, .insure__button, .fylo__button{
+    margin-bottom: 110px;
+}
+
+
+
+.contact{
+    width: 1015px;
+    height: 214px;
+}
+
+.contact-portfolio__button{
+    padding-left: 400px;
+}

@@ -1,0 +1,150 @@
+.image-top{
+    width: 1110px;
+    height: 500px;
+    margin-top: 90px;
+    margin-bottom: 115px;
+}
+
+.portfolios__button__a {
+    padding: 17px 60px;
+}
+
+.image-top{
+    width: 1110px;
+    height: 500px;
+    margin-top: 90px;
+    margin-bottom: 115px;
+}
+
+
+
+main{
+    display: flex;
+}
+
+
+.portfolios-resume{
+    width: 370px;
+    margin-right: 100px;
+}
+
+.portfolios-resume__infos{
+    height: 480px;
+}
+
+.portfolios-resume__h1{
+    margin-top: 45px;
+    margin-bottom: 29px;
+}
+
+.resume__technologies{
+    display: flex;
+    flex-direction: column;
+    margin-top: 45px;
+    margin-bottom: 32px;
+}
+
+.resume__technologies__span{
+    margin-bottom: 16px;
+    font-family: 'Public Sans';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    color: #5FB4A2;
+}
+
+.resume__technologies__span--last{
+    padding-top: 8px;
+}
+
+.divisoria--small{
+    width: 350px;
+}
+
+
+
+.portfolios-projeto {
+    width: 635px;
+    height: 1192px;
+}
+
+.portfolios-projeto .projeto__p{
+    font-size: 15px;
+    margin-bottom: 32px;
+}
+
+.projeto__p a {
+    color: rgba(51, 50, 61, 0.8)
+}
+
+.portfolios__h2{
+    margin-bottom: 28px;
+}
+
+.portfolios-projeto img{
+    width: 635px;
+    height: 400px;
+}
+
+.portfolios__image--preview1{
+    margin-bottom: 32px;
+}
+
+
+
+
+.transicoes{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+    width: 1110px;
+    height: 132px;
+    margin-top: 64px;
+    margin-bottom: 30px;
+}
+
+.transicoes a{
+    text-decoration: none;
+}
+
+.divisoria--big{
+    width: 1110px;
+}
+
+.transicao{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.transicao span{
+    font-family: 'Public Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: rgba(51, 50, 61, 0.5);
+}
+
+.transicao--right{
+    text-align: right;
+}
+
+.transicao--left img{
+    margin-right: 32px;
+}
+
+.transicao--right img{
+    margin-left: 32px;
+}
+
+
+
+.contact{
+    width: 1110px;
+    height: 214px;
+}
+
+.contact-portfolios__button{
+    margin-left: 500px;
+}
